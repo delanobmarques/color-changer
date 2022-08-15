@@ -11,7 +11,6 @@ const Square = ({ colorValue, hexValue }) => {
 }
 
 Square.defaultProps = {
-
     colorValue: "Empty Color Value"
 }
 
